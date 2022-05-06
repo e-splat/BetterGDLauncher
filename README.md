@@ -4,6 +4,6 @@
 ## 🖌️Better Mod Customization
 ### Bored of CurseForge or Fabric? this Launcher will have ModRinth API and Quilt integration instead of CurseForge API and Fabric
 
-## 🖍️Better Design
-### Our Launcher will have a Material You like for a better comfort
+## 🖍️New Design
+### Our Launcher will have a new theme for a better comfort
 
