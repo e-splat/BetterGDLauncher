@@ -6,18 +6,18 @@ module.exports = {
     },
     primary: {
       light: '#5A7391',
-      main: '#365076',
-      dark: '#2B4066'
+      main: '#513676',
+      dark: '#452b66'
     },
     secondary: {
       light: '#54636D',
       main: '#1B2533',
-      dark: '#050818'
+      dark: '#0d0518'
     },
     error: {
       light: '#DE6967',
       main: '#D64441',
-      dark: '#952f2d'
+      dark: '#d13b38'
     },
     grey: {
       50: '#B7C5C8',
